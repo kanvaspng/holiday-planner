@@ -1,2 +1,3 @@
-# holiday-planner
-Streamlit holiday planner app - South Tenerife
+# Holiday Planner
+
+Streamlit holiday planner app with backend integration.
